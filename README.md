@@ -4,11 +4,23 @@
 
 Виконайте наступні команди:
 
-### ` git clone https://github.com/meteofix/Front-end_School_HW_1.git`
+### ` git clone https://github.com/meteofix/Front-end_School_HW_2.git`
 
 ### `npm install`
 
 ### `npm start`
+
+Для запуску тестів виконайте:
+
+### `npm test`
+
+Для запуску аналізу з допомогою утиліти BundleAnalyzer виконайте:
+
+### `npm analyze`
+
+> Зверніть увагу! Додаток використовує як залежність бібліотеку `@meteofix/tiktuk-component-library`.
+Access token для доступу надіслав у класрумі.
+
 
 
 ## Коротка довідка про додаток:
